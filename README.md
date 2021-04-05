@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning the world
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me here!!!
+- 📫 reach me here!!!
 
 <!---
 benzjakk/benzjakk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
